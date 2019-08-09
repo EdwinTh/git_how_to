@@ -11,5 +11,7 @@ And do regular `add` and `commit`
 2) When already added, but not yet commited. Add them to the stash:
 
 `git stash`
+
 `git checkout -b`
+
 `git stash pop` 
